@@ -8,6 +8,8 @@ The project focuses on clear object-oriented design and readable, well-structure
 
 ## ✨ Features
 
+- Single-player mode (X vs O, where O is the computer)
+- Two different difficulty levels (Easy and Advanced) for single-player mode
 - Two-player mode (X vs O)
 - Console-based game board
 - Input validation
@@ -70,3 +72,4 @@ The grid positions are:
 - Python 3.x
 - Object-oriented programming
 - Console input/output
+
