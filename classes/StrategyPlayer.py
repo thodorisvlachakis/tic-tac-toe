@@ -1,4 +1,4 @@
-from Player import *
+from classes.Player import *
 
 class StrategyPlayer(Player):
     # This class refers only to a "computer" player.

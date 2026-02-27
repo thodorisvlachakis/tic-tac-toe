@@ -1,4 +1,4 @@
-from Grid import *
+from classes.Grid import *
 
 class Player:
     def __init__(self, name, symbol):

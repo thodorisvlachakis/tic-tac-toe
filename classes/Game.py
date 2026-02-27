@@ -1,7 +1,7 @@
-from Grid import *
-from Player import Player
-from RandomPlayer import RandomPlayer
-from StrategyPlayer import StrategyPlayer
+from classes.Grid import *
+from classes.Player import Player
+from classes.RandomPlayer import RandomPlayer
+from classes.StrategyPlayer import StrategyPlayer
 
 class Game:
     def __init__(self, player1_name, player2_name):
